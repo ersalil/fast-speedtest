@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>acc-icon.png</file>
+    <file>blue-home-icon.png</file>
+    <file>menu.png</file>
+    <file>delete.png</file>
+    <file>minimize.png</file>
+    <file>to_minimize.png</file>
+  </qresource>
+</RCC>
